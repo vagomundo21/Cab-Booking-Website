@@ -1,0 +1,51 @@
+.form{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-top: 10px;
+}
+.carousel-caption{
+	top: 0;
+    bottom: auto; 
+}
+.widthoffield{
+	width: auto;
+}
+.maindiv{
+	padding-top: 40px;
+	margin-top: 30px;
+}
+.black{
+	background-color: rgba(225, 225, 225, 0.6)
+}
+.login{
+	padding-left: 30px;
+	padding-right: 30px;
+	margin : 0 auto;
+	font-size: 12px;
+}
+.lgblue{
+	background-color: #e3f2fd;
+}
+.noborder{
+	border: 0px;
+}
+.regdiv{
+	width: 400px;
+	height: auto;
+	border-style: none;
+	margin-top: 90px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+}
+.cimg {
+  padding-top: 56px;
+  position: relative;
+}
+.ml-auto, .mx-auto{
+	margin-right: 30px !important;
+	margin-left: 25px !important;
+}
+.ml-auto1{
+	margin-right: 100px !important;
+}

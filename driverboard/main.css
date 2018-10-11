@@ -1,0 +1,24 @@
+body{
+	background-color: white;
+}
+.maindiv{
+	padding-top: 150px;
+}
+.h21{
+	font-family: Montserrat; 
+	padding-left: 50px;
+}
+.lgblue{
+	background-color: #e3f2fd;
+}
+.noborder{
+	border: 0px;
+}
+.regdiv{
+	width: 400px;
+	height: 50px;
+	border-style: inset;
+	border-width: 5px;
+	margin-top: 100px;
+	padding-top: 80px;
+}
