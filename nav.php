@@ -8,7 +8,7 @@
 	
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css?family=Righteous|Montserrat:400i|Catamaran:700|Abril+Fatface" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Righteous|Montserrat:400i|Catamaran:700|Abril+Fatface|Chakra+Petch" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="main.css">
 
 </head>
@@ -24,6 +24,12 @@
 		<div class="collapse navbar-collapse navbar-toggleable-xs" id="navbarSupportedContent">
 		    <ul class="navbar-nav mr-auto">
 		    	<li class="nav-item active">
+		    		<a class="nav-item nav-link" href="ride.php"><b style="color: black;">RIDE</b></a>
+		    	</li>
+		    	<li class="nav-item active">
+		    		<a class="nav-item nav-link" href="drive.php"><b style="color: black;">DRIVE</b></a>
+		    	</li>
+		        <li class="nav-item active">
 		    		<a class="nav-item nav-link" href="register.php">Register</a>
 		    	</li>
 		    	<li class="nav-item">
@@ -38,14 +44,6 @@
 			        </div>
 		    	</li>
 		    </ul>
-			<div class="navbar-nav ml-auto">
-				<a class="nav-item nav-link" href="ride.php"><b style="color: black;">RIDE</b></a>					   
-				<!-- <a class="nav-item nav-link" href="drive.php"><b style="color: black;">DRIVE</b></a> -->
-			</div>
-			<div class="navbar-nav ml-auto ml-auto1">
-				<!-- <a class="nav-item nav-link" href="ride.php"><b style="color: black;">RIDE</b></a>	-->
-				<a class="nav-item nav-link" href="drive.php"><b style="color: black;">DRIVE</b></a>
-			</div>
 		</div>
 	</nav>
 </body>

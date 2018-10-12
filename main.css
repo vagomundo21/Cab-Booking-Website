@@ -1,10 +1,19 @@
+.front{
+    font-size: 50px;
+    font-family: "Righteous";
+}
 .form{
 	margin-top: 40px;
 	margin-bottom: 40px;
 	padding-top: 10px;
 }
+.textback{
+    display: inline;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.75)
+}
 .carousel-caption{
-	top: 0;
+    top: 0;
     bottom: auto; 
 }
 .widthoffield{
@@ -15,7 +24,8 @@
 	margin-top: 30px;
 }
 .black{
-	background-color: rgba(225, 225, 225, 0.6)
+    background-color: rgb(225, 225, 225);
+	background-color: rgba(225, 225, 225, 0.6);
 }
 .login{
 	padding-left: 30px;
@@ -30,7 +40,7 @@
 	border: 0px;
 }
 .regdiv{
-	width: 400px;
+	width: 350px;
 	height: auto;
 	border-style: none;
 	margin-top: 90px;
@@ -39,13 +49,9 @@
 	margin-bottom: 25px;
 }
 .cimg {
-  padding-top: 56px;
-  position: relative;
-}
-.ml-auto, .mx-auto{
-	margin-right: 30px !important;
-	margin-left: 25px !important;
-}
-.ml-auto1{
-	margin-right: 100px !important;
+    width :60% !important ;
+    /*padding-top: 15px;*/
+    /*padding-bottom: 25px;*/
+    position: relative;
+    margin: 0 auto !important ;
 }
