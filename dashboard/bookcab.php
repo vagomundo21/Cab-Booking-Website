@@ -40,7 +40,7 @@
 
 	<div id="dvDistance">
 	</div>
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMjfeu61S3U54DaVOlOgyW3sZ88XDlUQ8&libraries=places"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=your_key&libraries=places"></script>
 		<script type="text/javascript">
 		var source, destination;
 		var directionsDisplay;
